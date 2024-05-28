@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="prime_neutral">#FFFFFFFF</color>
+    <color name="prime_positive">#4CAF50</color>
+    <color name="prime_negative">#DE4242</color>
+
+</resources>

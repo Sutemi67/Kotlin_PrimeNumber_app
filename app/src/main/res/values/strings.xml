@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Primenumber</string>
+    <string name="input_hint">Введите число</string>
+</resources>
